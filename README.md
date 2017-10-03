@@ -13,11 +13,14 @@ Logs CKAN usage to the Galileo Analytics platform
 
   ckan.plugins=<other plugins...>,galileo,<other plugins...>
 
-  #Galileo settings
+### Galileo settings
+
+```
   galileo_service_token = <token here>
   galileo_environment = <environment name here>
   galileo_host = <collector host name here>
   galileo_port = <colector port here>
+```
 
 ## Known issues
 
