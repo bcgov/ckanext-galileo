@@ -1,7 +1,7 @@
 # ckanext-galileo
 Logs CKAN usage to the Galileo Analytics platform
 
-##Installation
+## Installation
 
 1. Install ckanext-galileo 
 
@@ -19,7 +19,7 @@ Logs CKAN usage to the Galileo Analytics platform
   galileo_host = <collector host name here>
   galileo_port = <colector port here>
 
-##Known issues
+## Known issues
 
 This package depends on mashape-analytics which itself has some dependencies.  
 Mashape-analytics requires specific versions of its dependencies.  CKAN also
